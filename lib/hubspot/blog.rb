@@ -1,6 +1,6 @@
 module Hubspot
   #
-  # HubSpot Contacts API
+  # HubSpot Blogs API
   #
   class Blog
     BLOG_LIST_PATH = "/content/api/v2/blogs"
